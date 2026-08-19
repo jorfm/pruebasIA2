@@ -1,0 +1,8 @@
+{
+  "name": "Remix Brand Builder",
+  "description": "Describe a product and imagine it consistently across billboards, newspapers, social media, transit ads, and more without people using the Nano-Banana model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
